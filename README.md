@@ -22,7 +22,11 @@ uses express.js for the api and sql to connect to the database
 ## Visual
 
 
-https://user-images.githubusercontent.com/34934109/155915106-59f5a17e-e9cf-49d2-a7de-34c9d478df8c.mp4
+
+
+https://user-images.githubusercontent.com/34934109/156035327-53649ed2-913d-4b92-8910-ab83ec3b655c.mp4
+
+
 
 
 
