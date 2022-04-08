@@ -22,12 +22,14 @@ uses express.js for the api and sql to connect to the database
 ## Visual
 
 
+### Final Attempt
 
+https://user-images.githubusercontent.com/34934109/162493917-d07631c8-e3c7-4bdf-b03f-0510649f2c63.mp4
+
+
+### First Attempt
 
 https://user-images.githubusercontent.com/34934109/159592923-a9e24120-1c98-4a04-b394-2c5d743e21a7.mp4
-
-
-
 
 
 
